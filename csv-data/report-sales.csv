@@ -1,0 +1,12 @@
+LAPORAN Penjualan
+
+Tanggal Cetak,22 Dec 18
+Tanggal,2018-12-12 - 2018-12-19
+Total Omzet ,Rp 625000
+Total Laba Kotor ,Rp 320000
+Total Penjualan ,2
+Total Barang ,5
+
+ID Pesanan,Waktu,SKU,Nama Barang,Jumlah,Harga Jual,Total,Harga Beli,Laba
+ID-20181212-681054,2018-12-12 13:34:45 +0000 UTC,SSI-D00791091-XL-BWH,"Zalekia Plain Casual Blouse (XL,Broken White)",1,Rp 125000,Rp 125000,Rp 61000,Rp 64000
+ID-20181215-531154,2018-12-15 09:09:03 +0000 UTC,SSI-D00791091-XL-BWH,"Zalekia Plain Casual Blouse (XL,Broken White)",4,Rp 125000,Rp 500000,Rp 61000,Rp 256000
