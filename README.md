@@ -13,7 +13,11 @@ Im using Golang (go1.9) Framework is Beego v1.7.1 and im using Database is SQLit
 
 
 # Note 
-if point `6.` failed, please follow this step,
+if failed follow step `5.`, please follow this step,
 
-1. Open your terminal then execute command `go get github.com/astaxie/beego/orm`
-2. Open your terminal then execute command `go get github.com/mattn/go-sqlite3`
+1. install gcc  Linux\Ubuntu 
+	* `sudo apt install gcc`
+	* `sudo apt install build-essential`
+	* `gcc --version` for check gcc version
+2. Open your terminal then execute command `go get github.com/astaxie/beego/orm` for install lib orm for beego
+3. Open your terminal then execute command `go get github.com/mattn/go-sqlite3` for install driver sqlite3
